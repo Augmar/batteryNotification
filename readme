@@ -1,0 +1,1 @@
+add  --hidden-import plyer.platforms.win.notification for pyinstaller
